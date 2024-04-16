@@ -34,7 +34,3 @@ services:
       - ./logs:/var/log/nginx
 volumes:
   web-client-build
-
-
-
-stat /home/wns_student/bin/sh/docker-compose.prod.yml: no such file or directory
